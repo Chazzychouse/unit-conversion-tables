@@ -1,7 +1,7 @@
 # unit-conversion-tables
 Convert a user input unit to another user input unit
 
-**** *Relevant Skills*
+#### *Relevant Skills*
 * Understanding of functional programming
 * Usage and understanding of a compiled language
 * Factoring of function declarations and definitions
