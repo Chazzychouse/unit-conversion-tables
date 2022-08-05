@@ -1,5 +1,6 @@
 # unit-conversion-tables
-Convert a user input unit to another user input unit
+Convert a user input unit to another user input unit.
+This was compiled for C++ 11.
 
 #### *Relevant Skills*
 * Understanding of functional programming
