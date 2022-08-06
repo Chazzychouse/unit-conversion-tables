@@ -8,4 +8,4 @@ This was compiled for C++ 11.
 * Factoring of function declarations and definitions
 
 
-## **Note**: This project has not been heavily tested for error handling and expects mostly valid user inputs
+## **Note**: Work in Progress
